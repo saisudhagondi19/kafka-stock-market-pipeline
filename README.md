@@ -8,6 +8,7 @@ End-to-end real-time data pipeline that streams live stock market data using Apa
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
 ![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Amazon Athena](https://img.shields.io/badge/Amazon_Athena-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![CI](https://github.com/saisudhagondi19/kafka-stock-market-pipeline/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
 ---
